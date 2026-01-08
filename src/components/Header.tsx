@@ -33,7 +33,7 @@ export default function Header() {
             <a className="text-sm text-slate-300 hover:text-white">Developers</a>
             <a className="text-sm text-slate-300 hover:text-white">Pricing</a>
             <a className="text-sm text-slate-300 hover:text-white">Company</a>
-            <Button size="sm">Get Started</Button>
+            <Button>Get Started</Button>
           </nav>
 
           {/* Mobile Menu Button */}
